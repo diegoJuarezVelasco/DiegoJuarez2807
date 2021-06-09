@@ -1,14 +1,14 @@
-La organización de un centro de computo, en terminos sencillos, es la forma de operar un centro de computo.
-Existen dos tipos de organización de un centro de computo la organización funcional y la organización divisional.
+La organización de un centro de cómputo, en términos sencillos, es la forma de operar un centro de cómputo.
+Existen dos tipos de organización de un centro de cómputo; la organización funcional y la organización divisional.
 
 Organización funcional: es la existencia de diversos supervisores, cada cual especializado en determinadas áreas
 
-Organización divisional: Se establece basándose en la constitución de unidades pequeñas y autónomas en torno 
+Organización divisional: se establece basándose en la constitución de unidades pequeñas y autónomas en torno 
 a la constitución general de la empresa. 
 
 Mi definición sobre la organización enfocada a los centros de cómputo es la siguiente:
-Es la creación de una estructura en la cual se determinen jerarquias, se agrupen actividades, todo esto con el fin
-de que se simplifiquen dichas actividades. por ejemplo, para organizar un centro de computo se requiere definir el personal que
+Es la creación de una estructura en la cual se determinen jerarquías, se agrupen actividades, todo esto con el fin
+de que se simplifiquen dichas actividades. Por ejemplo, para organizar un centro de cómputo se requiere definir el personal que
 se requerirá como programadores, gerentes de procesos, capturistas, etc. También se requiere de acciones como:
 * Llevar registros de fallas, problemas, soluciones, acciones desarrolladas, respaldos, recuperaciones y trabajos realizados.
 * Aplicar en forma estricta las normas de seguridad y control establecidas.
